@@ -24,6 +24,7 @@ The dataset consists of multiple columns reflecting key sales metrics from a cof
 
 
 **9) Day of Week:** 	 Day when sale occurred (Mon–Sun)	                 Text (Categorical)
+
     
 **🎯 2. Dashboard Objective**
 
@@ -31,6 +32,7 @@ The primary goal of this dashboard is to:
 1) Analyze sales performance across different products, categories, and store locations
 2) Identify best-selling products, peak sales days, and store-wise contributions
 3) Provide actionable insights to improve revenue and customer targeting
+4) 
 
 **🔍 3. Key Insights (with Figures)**
 
@@ -72,6 +74,7 @@ Reveals patterns in customer activity throughout the week
 Visually represents customer choice in product size
 
 These visualizations are clean, intuitive, and ideal for decision-makers at a glance.
+
 
 **🧠 Recommendations**
 Based on the above findings, here are some tailored suggestions:
