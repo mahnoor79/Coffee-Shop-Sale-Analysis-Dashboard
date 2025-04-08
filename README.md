@@ -55,7 +55,9 @@ Here are some eye-catching insights derived from the data:
 **6) Top Category by Revenue:**
 ☕ Coffee category dominated, bringing in ~66% of total sales
 
+
 **📈  Charts Used in Dashboard**
+
 Here’s how the visual storytelling is crafted:
 
 **1) Bar Chart (Product-wise Sales):**
