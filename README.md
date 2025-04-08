@@ -6,15 +6,15 @@ The dataset consists of multiple columns reflecting key sales metrics from a cof
 
 **Column Name	Description	Data Type**
 
-1) Date	Date of transaction	Date
-2) Product	Type of product sold (e.g., Latte, Tea)	Text (Categorical)
-3) Category	Product category (Coffee, Tea, Pastry)	Text (Categorical)
-4) Size	Size of the product (Small, Medium, Large)	Text (Categorical)
-5) Quantity	Number of units sold	Numeric (Integer)
-6) Unit Price	Price per unit of the product	Numeric (Decimal)
-7) Total Sales	Total revenue from the product	Numeric (Decimal)
-8) Store Location	Name of the branch/location	Text (Categorical)
-9) Day of Week	Day when sale occurred (Mon–Sun)	Text (Categorical)
+**1) Date:**	         **Date of transaction**	                             **Date**
+**2) Product:** 	    Type of product sold (e.g., Latte, Tea)	             Text (Categorical)
+**3) Category:**       	 Product category (Coffee, Tea, Pastry)	             Text (Categorical)
+**4) Size:** 	         Size of the product (Small, Medium, Large)	         Text (Categorical)
+**5) Quantity:** 	     Number of units sold	Numeric                      (Integer)
+**6) Unit Price:** 	     Price per unit of the product	                     Numeric (Decimal)
+**7) Total Sales:** 	 Total revenue from the product	                     Numeric (Decimal)
+**8) Store Location:**	  Name of the branch/location	                     Text (Categorical)
+**9) Day of Week:** 	 Day when sale occurred (Mon–Sun)	                 Text (Categorical)
     
 **🎯 2. Dashboard Objective**
 
